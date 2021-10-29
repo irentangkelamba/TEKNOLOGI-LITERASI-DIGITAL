@@ -1,0 +1,15 @@
+public class MyClass {
+    public static void main(String args[]) {
+      int umur= 50;
+      int potonganberatbadan= 75;
+      int potongan= 0;
+      int persentasepotongan= 0;
+      if (totalbelanja >50000 && umur> 16) {
+          //kondisi true
+          System.out.println("anda mendapatkan promo");
+      }else{
+          //kondisi false
+          System.out.println("anda mendapatkan promo");
+      }
+      }
+    }
